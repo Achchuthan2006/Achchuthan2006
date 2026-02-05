@@ -37,7 +37,7 @@ Passionate about building web applications and solving real-world problems throu
    Modern church website experience for a Tamil Christian congregation, focusing on sermons, events, and newcomer information.  
    Reference: https://praisetabernacle.org 
 - **🎃 HalloweenStore** - Halloween-themed e-commerce website with JavaScript interactivity
-- - **🎬 CinePulse** - Movie & anime discovery app powered by real API calls
+- **🎬 CinePulse** - Movie & anime discovery app powered by real API calls
 - **✨ AuraPluse** - Mood-based ambient sound preset generator
 - **🌐 Portfolio Website** - My first portfolio showcasing my journey in web development
 
