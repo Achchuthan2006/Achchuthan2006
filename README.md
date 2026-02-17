@@ -63,8 +63,7 @@ Passionate about building web applications and solving real-world problems throu
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achchuthan2006&show_icons=true&theme=tokyonight)### 💡 Fun Fact
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Achchuthan2006&theme=tokyonight)](https://git.io/streak-stats)
 I'm always eager to learn new technologies and take on challenging projects. When I'm not coding, you'll find me exploring new web development trends or working on personal projects!
 
 ---
