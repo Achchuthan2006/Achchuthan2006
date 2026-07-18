@@ -2,15 +2,16 @@
 
 ## 🚀 Full Stack Developer | 2nd Year @ Humber College
 
-Passionate about building web applications and solving real-world problems through code. Currently pursuing a Computer Programming and Analysis diploma while working on exciting projects.
+Passionate about building web applications and solving real-world problems through code. Currently pursuing a Computer Programming and Analysis diploma while working on exciting client and personal projects. I leverage modern AI tools to build faster and smarter.
+
+---
 
 ### 🛠️ Tech Stack
 
 **Frontend:**
 - JavaScript, HTML5, CSS3
-- React.js
-- Responsive Design
-- Tailwind CSS
+- React.js, Next.js
+- Responsive Design, Tailwind CSS
 
 **Backend:**
 - Node.js, Express.js
@@ -23,51 +24,54 @@ Passionate about building web applications and solving real-world problems throu
 
 **Tools & Technologies:**
 - Git & GitHub
-- VS Code
-- Oracle Virtual Box
-- Bash Scripting
-- Linux/Unix
+- VS Code, Cursor IDE
+- Oracle Virtual Box, Bash Scripting, Linux/Unix
+- Vercel (Deployment)
+
+**🤖 AI Tools I Use:**
+- Claude (Anthropic) — for code generation, debugging & architecture planning
+- Lovable — for rapid UI prototyping and full-stack app generation
+- Google AI Studio — for AI integrations and prompt engineering
+- GitHub Copilot / Codex — for in-editor AI assistance
+
+---
 
 ### 💼 Featured Projects
 
-- **🏢Power Poly Supplies**  
-   Full-stack ecommerce platform for dry-cleaning businesses, featuring product catalog, cart, and order workflow for bulk garment bags and cleaning supplies.  
-   Live site: https://powerpolysupplies.com  
-- **⛪Praise Tabernacle Website**  
-   Modern church website experience for a Tamil Christian congregation, focusing on sermons, events, and newcomer information.  
-   Reference: https://praisetabernacle.org 
-- **🎃 HalloweenStore** - Halloween-themed e-commerce website with JavaScript interactivity
-- **🎬 CinePulse** - Movie & anime discovery app powered by real API calls
-- **✨ AuraPluse** - Mood-based ambient sound preset generator
-- **🌐 Portfolio Website** - My first portfolio showcasing my journey in web development
+**🌐 Client Projects:**
+- **💇 Trilla Website** — Modern website built for a client, designed with clean UI/UX principles
+- **🍞 Arun Bakery** — Professional bakery website showcasing products and services
+- **🧖 Courtyard Spa** — Elegant spa & wellness website with a relaxing aesthetic
+- **🏢 Power Poly Supplies** — Full-stack ecommerce platform for dry-cleaning businesses · [Live](https://powerpolysupplies.com)
+- **⛪ Praise Tabernacle Website** — Modern church website for a Tamil Christian congregation · [Live](https://praisetabernacle.org)
+
+**🧪 Personal Projects:**
+- **🎃 HalloweenStore** — Halloween-themed e-commerce website with JavaScript interactivity
+- **🎬 CinePulse** — Movie & anime discovery app powered by real API calls
+- **✨ AuraPluse** — Mood-based ambient sound preset generator
+- **🌐 Portfolio Website** — Portfolio showcasing my web development journey · [Live](https://achchuthan2006.github.io)
+
+---
 
 ### 📚 Currently Learning
-
-- Advanced React patterns
-- Backend development with Node.js
+- Advanced React & Next.js patterns
+- Backend development with Node.js & Supabase
 - Database optimization techniques
-- Web deployment strategies
+- Web deployment & CI/CD strategies
+- Python & Java fundamentals
+
+---
 
 ### 🎯 Goals for 2026
-
 - Build full-stack applications with complete CI/CD pipelines
 - Contribute to open-source projects
 - Land an internship or junior developer role
 - Master modern web development frameworks
-
-### 📫 Let's Connect!
-
-- 🌐 Portfolio: [achchuthan2006.github.io](https://achchuthan2006.github.io)
-- 📧 Email: kumarananthaachchuthan15@gmail.com
-- 📍 Location: Vaughan, Canada
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Achchuthan2006&theme=tokyonight)](https://git.io/streak-stats)
-
-
-I'm always eager to learn new technologies and take on challenging projects. When I'm not coding, you'll find me exploring new web development trends or working on personal projects!
+- Level up with AI-assisted development workflows
 
 ---
 
-⭐️ From [Achchuthan2006](https://github.com/Achchuthan2006)
+### 📫 Let's Connect!
+- **Portfolio:** [achchuthan2006.github.io](https://achchuthan2006.github.io/)
+- **Email:** kumarananthaachchuthan15@gmail.com
+- **Location:** Vaughan, Canada
