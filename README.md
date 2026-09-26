@@ -39,9 +39,13 @@ Passionate about building web applications and solving real-world problems throu
 ### 💼 Featured Projects
 
 **🌐 Client Projects:**
-- **💇 Trilla Website** — Modern website built for a client, designed with clean UI/UX principles
-- **🍞 Arun Bakery** — Professional bakery website showcasing products and services
-- **🧖 Courtyard Spa** — Elegant spa & wellness website with a relaxing aesthetic
+
+- **🛁 The Courtyard Spa Company** — Product showcase for hot tubs, swim spas and cold plunges, with model comparisons and appointment enquiries · [Live](https://courtyardspa.ca)
+- **💄 Beauty Canvas by Ov** — Beauty artist website featuring makeup, hair styling and saree draping services, a visual portfolio and client enquiries · [Live](https://beautycanvasbyov.com)
+- **🖨️ PrintMe Design** — Custom print shop website project · [Website](https://printmedesign.com) *(New experience coming soon; public landing page available.)*
+- **🍞 Arun Bakery** — Bakery and restaurant website showcasing Sri Lankan Tamil cuisine, an interactive menu and catering enquiries · [View website](https://arun-bakery-smoky.vercel.app)
+- **🍦 Sharon's Ice Cream** — Dessert brand website featuring its menu, signature treats, custom cakes, catering and location information · [View website](https://sharons-icecream.vercel.app)
+- **🎵 Trilla Melodies** — Music artist website with an interactive artist story, release timeline and listening links · [Live](https://trillamelodies.com)
 - **🏢 Power Poly Supplies** — Full-stack ecommerce platform for dry-cleaning businesses · [Live](https://powerpolysupplies.com)
 - **⛪ Praise Tabernacle Website** — Modern church website for a Tamil Christian congregation · [Live](https://praisetabernacle.org)
 
